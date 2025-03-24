@@ -20,3 +20,4 @@ async def predict(file: UploadFile = File(...)):
 from pyngrok import ngrok
 public_url = ngrok.connect(8000)
 print("API доступно по адресу:", public_url)
+asd
