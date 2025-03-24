@@ -1,0 +1,9 @@
+nohup: ignoring input
+INFO:     Will watch for changes in these directories: ['D:\\Users\\bugay\\PycharmProjects\\pythonProject5']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [1848] using StatReload
+ERROR:    Error loading ASGI app. Could not import module "app".
+WARNING:  StatReload detected changes in 'bvb.py'. Reloading...
+ERROR:    Error loading ASGI app. Could not import module "app".
+WARNING:  StatReload detected changes in 'bvb.py'. Reloading...
+ERROR:    Error loading ASGI app. Could not import module "app".WARN
