@@ -6,4 +6,5 @@ ERROR:    Error loading ASGI app. Could not import module "app".
 WARNING:  StatReload detected changes in 'bvb.py'. Reloading...
 ERROR:    Error loading ASGI app. Could not import module "app".
 WARNING:  StatReload detected changes in 'bvb.py'. Reloading...
-ERROR:    Error loading ASGI app. Could not import module "app".WARN
+ERROR:    Error loading ASGI app. Could not import module "app".
+WARN
